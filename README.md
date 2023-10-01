@@ -99,13 +99,5 @@ This Project was done in Native PHP/MYSQL for Video, image and other details to 
 
 
 
-## Usage/Examples
 
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
 
